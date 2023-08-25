@@ -6,7 +6,7 @@
 ITN (IsThisNumberOK?) is a little Python program who let you to search informations about a number phone. It can be used for example in OSINT. 
 
 - Install requests : python -m pip install requests
-- create an account on [https://api-ninjas.com/][df1] and replace the API key
+- create an account on [https://api-ninjas.com/] and replace the API key
 - 🎇 let the magic happen 
 ## How to use ?
 
